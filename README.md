@@ -2,6 +2,6 @@
 
 Here you find a a practical demonstration of basic principles described on our Tutorial Paper <link> according the workflow presented bellow:
 
-
+<img src=https://github.com/MICLab-Unicamp/HypAST/blob/master/figs/predictions.png>
 
 
