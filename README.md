@@ -21,11 +21,13 @@ We recommend that you upload this notebook in Google Colaboratory for a first co
 
 You can also access the notebook already in Colab in the following links:
 
-### Segmentation Example:
+#### Segmentation Example:
 
 https://colab.research.google.com/drive/1zF6jz_febg11Hgm5Te1RirQo2w5pi9Ua?usp=sharing
 
-### Classification Example:
+#### Classification Example:
+
+https://colab.research.google.com/drive/1uXLYbWwHT8cChAYmexV6QNUi5eI4ITod?usp=sharing
 
 Create a copy of it in your Drive and have fun!
 
