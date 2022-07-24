@@ -1,5 +1,4 @@
-# An Introduction Tutorial to Medical Imaging Segmentation with Deep Learning
-
+# An Introduction to Medical Imaging Analysis with Deep Learning
 
 ## Introduction
 
@@ -12,7 +11,7 @@ Here you find a a practical demonstration of basic principles described on our T
 
 ## Citation
 
-Our work entitled "An Introduction to Medical Imaging Segmentation with Deep Learning" has been submitted as a tutorial to the 2022 35th SIBGRAPI - Conference on Graphics, Patterns and Images, in Natal, Brazil.
+Our work entitled "An Introduction to Medical Imaging Analysis with Deep Learning" has been submitted as a tutorial to the 2022 35th SIBGRAPI - Conference on Graphics, Patterns and Images, in Natal, Brazil.
 
 We will use the notebook and data in this repository for a hands-on demonstration.
 
@@ -20,7 +19,13 @@ We will use the notebook and data in this repository for a hands-on demonstratio
 
 We recommend that you upload this notebook in Google Colaboratory for a first contact with the concepts.
 
-You can also access the notebook already in Colab in the following link: https://colab.research.google.com/drive/1zF6jz_febg11Hgm5Te1RirQo2w5pi9Ua?usp=sharing
+You can also access the notebook already in Colab in the following links:
+
+### Segmentation Example:
+
+https://colab.research.google.com/drive/1zF6jz_febg11Hgm5Te1RirQo2w5pi9Ua?usp=sharing
+
+### Classification Example:
 
 Create a copy of it in your Drive and have fun!
 
