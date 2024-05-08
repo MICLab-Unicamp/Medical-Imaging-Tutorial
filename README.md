@@ -26,16 +26,14 @@ We recommend that you create a personal copy of our notebooks in Google Colabora
 
 You can access the notebook in Colab in the following links:
 
-#### Segmentation Example:
+#### CT Segmentation Example:
 
-This link is currently not working, if you have a copy on your account please contact us
-https://colab.research.google.com/drive/1zF6jz_febg11Hgm5Te1RirQo2w5pi9Ua?usp=sharing
+https://colab.research.google.com/drive/1xsEQb-GilPMbhecle31dsd8jEPYi7_Qa?usp=sharing
 
-#### Classification Example:
+#### MRI Classification Example:
 
-This link is currently not working, if you have a copy on your account please contact us
-https://colab.research.google.com/drive/1uXLYbWwHT8cChAYmexV6QNUi5eI4ITod?usp=sharing
+https://colab.research.google.com/drive/1Z37aaRDlz7MjBxstj_mrVQqJa_8NXbzr?usp=sharing
 
 Create a copy of it in your Drive and have fun!
 
-If you still want to run locally, you will need to setup your Python and Jupyter Notebook environment with the necessary libraries, including your NVidia GPU driver and a GPU compatible installation of PyTorch (https://pytorch.org).
+A copy of these notebooks is also available in the repository. If you want to run locally, you will need to setup your Python and Jupyter Notebook environment with the necessary libraries, including your NVidia GPU driver and a GPU compatible installation of PyTorch (https://pytorch.org).
