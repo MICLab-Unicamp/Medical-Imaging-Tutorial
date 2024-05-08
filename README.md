@@ -28,12 +28,13 @@ You can access the notebook in Colab in the following links:
 
 #### Segmentation Example:
 
-LINK BROKEN
+This link is currently not working, if you have a copy on your account please contact us
 https://colab.research.google.com/drive/1zF6jz_febg11Hgm5Te1RirQo2w5pi9Ua?usp=sharing
 
 #### Classification Example:
 
-[https://colab.research.google.com/drive/1uXLYbWwHT8cChAYmexV6QNUi5eI4ITod?usp=sharing](https://colab.research.google.com/drive/1R2-PvVZIXgdueLoxNH2H0x8vOmatKSkr?usp=sharing)
+This link is currently not working, if you have a copy on your account please contact us
+https://colab.research.google.com/drive/1uXLYbWwHT8cChAYmexV6QNUi5eI4ITod?usp=sharing
 
 Create a copy of it in your Drive and have fun!
 
